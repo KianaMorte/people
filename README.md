@@ -1,26 +1,26 @@
 # people
 # Program make a simple calculator
 
-# This function adds two numbers
+# This function adds two help me
 def add(x, y):
     return x + y
 
-# This function subtracts two numbers
+# This function subtracts i need 
 def subtract(x, y):
     return x - y
 
-# This function multiplies two numbers
+# This function multiplies two you
 def multiply(x, y):
     return x * y
 
-# This function divides two numbers
+# This function divides two help
 def divide(x, y):
     return x / y
 
 
 print("Select operation.")
 print("1.Add")
-print("2.Subtract")
+print("2.Multiplay")
 print("3.Multiply")
 print("4.Divide")
 
